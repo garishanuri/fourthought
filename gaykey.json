@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nimble-valve-360317",
+  "private_key_id": "962b9c162e3e38c335d10c0d658e4185c3392e8b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDtAg/m5hX0HYY\n/ENE5Z0pTIRsV5UxfAYODl/zW4J8V62/0abR9e9hDvX9hoRicoTNKpfKUuBMBPEu\nZxt0iMPMjcBJ7U95BIItxdUdLoVj5gCUv3sg1uGM68f6xJCaI/KZK8GbyHt+2Fgz\nD/tI5GRYnS7qfUItsoJxsPqSI+xS13rrkr0agL6ztLyy8cOCommskNUkQkIjNI3J\n6BhFtWNgNNqKkrmyVC42CXeC/lSKQuFO/LUeuQhOKLkqgwaPSXhAmVXygK12zBS2\nfDGFLdrubaxq+Ygzf6EEXUCqEQmewZFnapeVjf7UwCjJsoGKK0rPC8w+sqCFCFXQ\nOWeeMYnzAgMBAAECggEAC1jtAYMsGitkLZ6y59PIgRSGuSF67Rub3kTHG30626rZ\n0D1/xrzT3HTZnpGmK28odBz8ICceCkpfEam41dD4SWwOsjqoWQQB6FWIPeDsqxYz\nAmz33reW7Gzfc5LiL43WCzuWRkohnwE8W/mZQGi9yMWUatRIeg3Xsm/ol4Ctuz/Z\nTjsgvkkT62vRKZf2D8df+8hnZS50Zvbt+ynHc+FqDKKc+FkYVFapx2WTojdE0+36\nKUnalBOrti0gfE4jBL8wdQzXuuJPVmjHv/9tK1b8Ogqn7yKHXHy2LxtJuNukriAR\nVGAi3qNDNRsNRx+q3XC52exlxp5imgh0LOtq8xhrwQKBgQDpK4ZHED6nsz6pns2V\n+348kGQGyVAhU++ep8nO9+tR3gibRg09tFsSTMX0X5nindWcjH+TwWyWdyRtp/Wp\nL3nyJ7m4NwZFUbt7a2BVSR4/h6IFwRCjW8IxBYdYkU/+YKYFrD4k8GZPilIn2PMn\n9EzPWpp4y5vARuFpyPVisXinDQKBgQDW3WRg7QhGIEbgl5GbfZzqm1crN4Unc2x7\nqFUVLwLMHZ1RZHMdT2wIGc/5LoPEtLntf+2Cg66MH7faxgNwlQSHbauOHwvF34he\nfuc7+xt+Oq1WPWpXtG8cM42hwRVJGjebmaj+2qL6t/QKfrJH/rjNvD2bdx7gwOkQ\nUJcGpEa0/wKBgQCjd+opxA/JDnct/7FuJuT3nNsjjttooinp9wQa3+DQgnNSOKhr\nzBfVGpHlo2iFYdYybKW8duykCF83qXsm46wAwy0HIzx4OLbR7hOZdyuHqpVCp3n8\nrQXVzGR5CVclpah/baQbzZZMyVKTsRu3tSRscr69VTGaeZbqzQKL8JP/uQKBgGyi\nTPEQhuFlylAdcfoKvX6EgcMQ9BqpKg0vY60tMp3ezz5qqiUEldtWqacT1H1s3qBs\n0LnvOB4Sn1NWUEDopvyN/3IA0mP+C6WzRdg2soTUx/TVYmHrkU3R5ucEh22JetoK\nC76m7kYTIaj4u8zYxbkHVqK2zH7YKj4ccO9juXgjAoGAD5Rfakv/m2zp9tzh1EM0\nMe3TUK6lPlwKq6AcvPoUM4dAfrvH1tyhz9ibVqSY6c0QM9kcJNsff/gGGuZ9XS14\nmOirraetnQpWR2HOc075p/uZHD9Jm/gFLTFYMWz8ZD0K4W0BxT8H7X4k66Q6VN7z\nuZlycXjOuGO295hr9PJgzOw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "travis@nimble-valve-360317.iam.gserviceaccount.com",
+  "client_id": "104241536333269824895",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/travis%40nimble-valve-360317.iam.gserviceaccount.com"
+}
